@@ -1,7 +1,7 @@
 # LOSTNFOUND
 9-prj-15052018-lostnfound created by GitHub Classroom
 
-## Authors: Almikeev Egor (ealmikeew@gmail.com), Kunicina Sophia s.kunica97@gmail.com
+#### Authors: Almikeev Egor (ealmikeew@gmail.com), Kunicina Sophia s.kunica97@gmail.com
 
 Title | Url
 ------------ | -------------
